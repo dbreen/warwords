@@ -1,0 +1,2 @@
+
+SKIN = 'stone'
