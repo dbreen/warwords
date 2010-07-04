@@ -11,7 +11,7 @@ class StandardGameMode(BaseGameMode):
         'F': (4, 4),
         'G': (4, 3),
         'H': (4, 3),
-        'I': (5, 1),
+        'I': (0, 1),
         'J': (1, 10),
         'K': (2, 5),
         'L': (4, 2),
