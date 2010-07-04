@@ -15,7 +15,7 @@ class TileHolder(object):
 
 class TileBag(TileHolder):
     def draw(self):
-        return self.tiles.pop(random.randint(0, len(self.tiles)))
+        return self.tiles.pop(random.randint(0, len(self.tiles) - 1))
     
 
 class TileTrough(TileHolder):
